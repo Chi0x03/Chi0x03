@@ -1,9 +1,23 @@
-# E aí?
+# Quem sou eu: 👓
 
-Criei essa conta para poder compartilhar algumas coisas que faço
+### Me chamo **Caio**!
 
----
-## Tecnologias que estou interessado:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40px;"/>
+Curto muito Desenvolvimento Web e Hacking 👨‍💻. Normalmente estou estudando sobre diversos assuntos interessantes e fundamentais sobre computação, melhores práticas, desenvolvimento seguro... etc. (mas as vezes a preguiça bate 🦥).
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40px;"/>
+## Habilidades/tecnologias:
+
+<div align="center">
+    <img src="./assets/mysql.svg" width="64px" heigth="64px">
+
+    <img src="./assets/express.svg" width="64px" heigth="64px">
+
+    <img src="./assets/nodedotjs.svg" width="64px" heigth="64px">
+
+    <img src="./assets/c.svg" width="64px" heigth="64px">
+
+    <img src="./assets/docker.svg" width="64px" heigth="64px">
+
+    <img src="./assets/linux.svg" width="64px" heigth="64px">
+
+    
+</div>
