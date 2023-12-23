@@ -2,7 +2,8 @@
 
 ### Me chamo Caio!
 
-Curto muito **Desenvolvimento Web** e **Hacking** 👨‍💻. Normalmente estou estudando sobre diversos assuntos interessantes e fundamentais sobre computação, melhores práticas, desenvolvimento seguro... etc. (mas as vezes a preguiça bate 🦥).
+Curto muito **Desenvolvimento Web** e **Hacking** 👨‍💻.
+Normalmente estou estudando sobre diversos assuntos interessantes e fundamentais sobre computação, melhores práticas, desenvolvimento seguro... etc. (mas as vezes a preguiça bate 🦥).
 
 ## Habilidades/tecnologias:
 
