@@ -1,18 +1,31 @@
-<img src="./assets/banner.png" alt="Banner" />
-
-## 👋 Hi there!  
-
-My name is **Caio Wagner**, and I’m a **Full-Stack Developer** passionate about building clean, efficient, and impactful solutions.  
-I love working across the stack — from robust backends to intuitive frontends.  
-
-### 🛠️ Tech Stack
-- **Backend:** Java, Spring Boot, PostgreSQL, MySQL, Docker  
-- **Frontend:** React, JavaScript, TypeScript  
-
-### 🚀 Featured Projects
-- [🎓 System for Special Education Teachers](https://example.com) – A platform designed to support special education teachers with tools for managing students and personalized learning plans.  
-- [🔗 URL Shortener](https://github.com/Chi0x03/shorturl) – A lightweight and efficient service to shorten, manage, and share links easily.  
+<img src="./assets/banner.png" alt="Caio Wagner - Full-Stack Developer" />
 
 ---
 
-📫 **Get in touch**: [fodan13@protonmail.com](mailto:fodan13@protonmail.com)
+## Caio Wagner  
+**Full-Stack Developer**  
+Java · Spring Boot · React · PostgreSQL · Docker
+
+I’m a full-stack developer with experience building scalable web solutions, focusing on clean architecture, performance, and code quality.  
+I work across the entire development lifecycle — from system design to deployment — delivering efficient and maintainable products.
+
+---
+
+### ⚙️ Tech Stack  
+- **Backend:** Java, Spring Boot, PostgreSQL, MySQL, Docker  
+- **Frontend:** React, TypeScript, JavaScript  
+
+---
+
+### 📌 Featured Projects
+
+- [🎓 System for Special Education Teachers](https://example.com)  
+  A platform designed to assist special education professionals in managing individualized learning plans and student follow-up.
+
+- [🔗 URL Shortener](https://github.com/Chi0x03/shorturl)  
+  A lightweight URL shortening service with fast redirection and basic analytics.
+
+---
+
+### 📫 Contact  
+**Email:** [fodan13@protonmail.com](mailto:fodan13@protonmail.com)
