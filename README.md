@@ -1,17 +1,18 @@
-# Quem sou eu: 👓
+<img src="./assets/banner.png" alt="Banner" />
 
-### Me chamo Caio.
+## 👋 Hi there!  
 
-Curto muito **Desenvolvimento Web** e **Hacking**.
-Normalmente estou estudando sobre diversos assuntos interessantes e fundamentais sobre computação, melhores práticas, desenvolvimento seguro... etc.
+My name is **Caio Wagner**, and I’m a **Full-Stack Developer** passionate about building clean, efficient, and impactful solutions.  
+I love working across the stack — from robust backends to intuitive frontends.  
 
-## Habilidades/tecnologias:
+### 🛠️ Tech Stack
+- **Backend:** Java, Spring Boot, PostgreSQL, MySQL, Docker  
+- **Frontend:** React, JavaScript, TypeScript  
 
-<div align="center">
-    <img src="./assets/mysql.svg" width="64px" heigth="64px">
-    <img src="./assets/express.svg" width="64px" heigth="64px">
-    <img src="./assets/nodedotjs.svg" width="64px" heigth="64px">
-    <img src="./assets/c.svg" width="64px" heigth="64px">
-    <img src="./assets/docker.svg" width="64px" heigth="64px">
-    <img src="./assets/linux.svg" width="64px" heigth="64px">
-</div>
+### 🚀 Featured Projects
+- [🎓 System for Special Education Teachers](https://example.com) – A platform designed to support special education teachers with tools for managing students and personalized learning plans.  
+- [🔗 URL Shortener](https://github.com/Chi0x03/shorturl) – A lightweight and efficient service to shorten, manage, and share links easily.  
+
+---
+
+📫 **Get in touch**: [fodan13@protonmail.com](mailto:fodan13@protonmail.com)
